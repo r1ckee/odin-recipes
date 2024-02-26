@@ -1,3 +1,3 @@
 # odin-recipes
 
-Contains the "Recipes" HTMl assignement for The Odin Project
+Contains the "Recipes" HTML assignement for The Odin Project
